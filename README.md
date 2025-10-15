@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Findy-WID
-- 👀 I’m interested in The Blockchain and Defi
-- 🌱 I’m currently learning Smart Contract Dev.
+- 👋 Hi, I’m @findy_dev
+- 👀 I’m interested in Blockchain technology and Defi
+- 🌱 I’m currently learning to build on Ethereum and Bitcoin.
 - 💞️ I’m looking to collaborate on Smart contract dev.
 - 📫 How to reach me favouritefindy@gmail.com
 
